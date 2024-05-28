@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: hcornelison.dev blog
+locale: "en-US"
+url: https://blog.hcornelison.dev
+repository: "https://github.com/hcornelison/blog"
 email: me@hcornelison.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -48,6 +51,9 @@ author:
   avatar : https://avatars.githubusercontent.com/u/34791049?s=400&u=e2451076951e95554c8e9fb1828ce8bbc805b000&v=4
   bio    : "My awesome biography constrained to a sentence or two should have went here."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:me@hcornelison.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hcornelison.dev"
@@ -84,6 +90,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  
 tag_archive:
   type: liquid
   path: /tags/
