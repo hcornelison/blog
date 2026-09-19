@@ -1,3 +1,7 @@
+I asked the following question of my dear friend Claude
+> Over the last 100 years, which age group of people has "had it the worst"?
+> I'm nearly 40 years old, and feel like I've seen so much change, good and bad in my life. I am trying to get a frame of reference for what other groups of people have lived through as well, to gain perspective.
+
 It's a great question, and one historians and economists actually argue about. The honest answer depends on what "worse" means: physical danger and material deprivation, or economic trajectory and whether life turned out better than expected. Those two measures point to different cohorts.
 
 ## The decade-by-decade picture (by birth decade)
